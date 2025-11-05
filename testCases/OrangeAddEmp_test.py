@@ -47,7 +47,7 @@ class Test_AddEmployee:
         self.log.info("click on Createlogdetail toggle")
         self.ae.Click_Createlogdetail()
         self.log.info("entering Username")
-        self.ae.Enter_Username("Rakesh76")
+        self.ae.Enter_Username("Rakesh7345")
         self.log.info("entering Password")
         self.ae.Enter_Password("Rakesh123")
         self.log.info("entering Confirm Password")
