@@ -606,3 +606,47 @@
 2025-11-04 13:34:18,390 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 65 : test_OrangeAddEmployee005 is pass
 2025-11-04 13:34:18,390 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 66 : test_OrangeAddEmployee005 is end
 2025-11-04 13:34:18,390 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 67 : browser closed
+2025-11-05 14:04:28,633 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 20 : test_OrangeAddEmployee005 is start
+2025-11-05 14:04:28,633 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 21 : opening the browser
+2025-11-05 14:04:28,633 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 24 : enter username
+2025-11-05 14:04:28,633 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 25 : username is--->Admin
+2025-11-05 14:04:30,934 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 27 : enter password
+2025-11-05 14:04:30,934 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 28 : password is--->admin123
+2025-11-05 14:04:31,075 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 30 : click on login button
+2025-11-05 14:04:34,211 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 34 : click on PIM
+2025-11-05 14:04:35,365 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 36 : click on ADD Employee
+2025-11-05 14:04:36,824 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 38 : entering firstname
+2025-11-05 14:04:37,559 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 40 : entering middlename
+2025-11-05 14:04:37,653 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 42 : entering lastname
+2025-11-05 14:04:37,832 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 45 : uploading photo
+2025-11-05 14:04:37,914 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 47 : click on Createlogdetail toggle
+2025-11-05 14:04:38,057 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 49 : entering Username
+2025-11-05 14:04:38,232 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 51 : entering Password
+2025-11-05 14:04:38,344 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 53 : entering Confirm Password
+2025-11-05 14:04:40,440 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 56 : click on enable radio button
+2025-11-05 14:04:44,573 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 59 : click on save button
+2025-11-05 14:04:48,846 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 62 : validate employeeadd status
+2025-11-05 14:04:49,067 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 65 : test_OrangeAddEmployee005 is pass
+2025-11-05 14:04:49,072 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 66 : test_OrangeAddEmployee005 is end
+2025-11-05 14:04:49,072 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 67 : browser closed
+2025-11-05 14:05:40,725 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 20 : test_OrangeAddEmployee005 is start
+2025-11-05 14:05:40,726 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 21 : opening the browser
+2025-11-05 14:05:40,726 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 24 : enter username
+2025-11-05 14:05:40,726 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 25 : username is--->Admin
+2025-11-05 14:05:41,772 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 27 : enter password
+2025-11-05 14:05:41,772 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 28 : password is--->admin123
+2025-11-05 14:05:41,902 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 30 : click on login button
+2025-11-05 14:05:45,028 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 34 : click on PIM
+2025-11-05 14:05:46,348 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 36 : click on ADD Employee
+2025-11-05 14:05:47,549 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 38 : entering firstname
+2025-11-05 14:05:48,187 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 40 : entering middlename
+2025-11-05 14:05:48,304 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 42 : entering lastname
+2025-11-05 14:05:48,454 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 45 : uploading photo
+2025-11-05 14:05:48,596 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 47 : click on Createlogdetail toggle
+2025-11-05 14:05:48,706 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 49 : entering Username
+2025-11-05 14:05:48,837 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 51 : entering Password
+2025-11-05 14:05:48,948 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 53 : entering Confirm Password
+2025-11-05 14:05:51,072 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 56 : click on enable radio button
+2025-11-05 14:05:55,222 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 59 : click on save button
+2025-11-05 14:05:59,402 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 62 : validate employeeadd status
+2025-11-05 14:06:04,556 : INFO : Test_AddEmployee : test_OrangeAddEmployee005 : 71 : test_OrangeAddEmployee005 is fail

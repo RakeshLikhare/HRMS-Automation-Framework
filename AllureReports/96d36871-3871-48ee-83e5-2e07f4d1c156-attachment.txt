@@ -1,3 +1,0 @@
-
-browser run in firefox
-employee add process is complete successfully
