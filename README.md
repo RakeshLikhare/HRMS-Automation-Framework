@@ -89,7 +89,7 @@ pytest -v --browser chrome
 
 Run tests with HTML report:
 ```bash
-pytest -v --browser chrome --html=HTMLReports/report.html
+pytest -v --browser chrome --html=HTMLReports/myreport.html
 ```
 
 Generate Allure report:
